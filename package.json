@@ -1,0 +1,23 @@
+{
+  "name": "launchyAnimation",
+  "version": "0.0.0",
+  "description": "jQuery and zepto plugin for animate elements",
+  "homepage": "www.oscarlijo.com",
+  "author": {
+    "name": "Oscar Lijó Busto",
+    "email": "oscar.lijo@gmail.com",
+    "url": "www.oscarlijo.com"
+  },
+  "maintainers": [
+    "Oscar Lijó Busto <oscar.lijo@gmail.com>"
+  ],
+  "keywords": [
+    "animate elements",
+    "jquery-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oscarlijo/launchyAnimation.git"
+  },
+  "license": "MIT"
+}
