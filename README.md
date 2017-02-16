@@ -1,4 +1,4 @@
-# ANIMATEXT #
+# LAUNCHY ANIMATION #
 
 ----------
 [http://www.oscarlijo.com/launchyAnimation/](http://www.oscarlijo.com/launchyAnimation/ "launchyAnimation")
